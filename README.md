@@ -37,22 +37,36 @@ I’ve contributed to multi-app business ecosystems, real-time synchronization s
 
 # 💻 Tech Stack:
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Mobile & Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+
+### Language
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+
+### State & Data
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
+
+### Backend & Services
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+### DevOps & Tools
+![EAS Build](https://img.shields.io/badge/EAS_Build-000000?style=for-the-badge&logo=expo&logoColor=white)
+![EAS Submit](https://img.shields.io/badge/EAS_Submit-000000?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Updates](https://img.shields.io/badge/Expo_Updates-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Testing & APIs
 ![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -73,35 +87,20 @@ Designed to support operational workflows, real-time synchronization, order mana
 - Operational logistics infrastructure
 
 ---
-
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Savic3916&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Savic3916&theme=transparent&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savic3916&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=savic3916&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=savic3916&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=savic3916&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Savic3916&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Savic3916&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Savic3916&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-trophies.vercel.app/?username=savic3916&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
 ## 💰 Support My Work
 
 [![Selar](https://img.shields.io/badge/Support%20Me%20on%20Selar-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://selar.com/showlove/savic)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
